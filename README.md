@@ -6,7 +6,7 @@ Since 2019, I've partnered with different people, made good friends, met good pe
 
 ### What I'm focusing on 👨‍💻
 
-Languages: ** C#, Python**
+Languages: **C#, Python**
 
 ### Find me elsewhere 🌎
 [![dev chat](https://discordapp.com/api/guilds/765925217595817984/widget.png?style=shield)](https://discord.gg/gtps)
